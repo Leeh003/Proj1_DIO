@@ -1,0 +1,16 @@
+C:\MyWorks\Dio.Animation\bin\Debug\net5.0\Dio.Animation.exe
+C:\MyWorks\Dio.Animation\bin\Debug\net5.0\Dio.Animation.deps.json
+C:\MyWorks\Dio.Animation\bin\Debug\net5.0\Dio.Animation.runtimeconfig.json
+C:\MyWorks\Dio.Animation\bin\Debug\net5.0\Dio.Animation.runtimeconfig.dev.json
+C:\MyWorks\Dio.Animation\bin\Debug\net5.0\Dio.Animation.dll
+C:\MyWorks\Dio.Animation\bin\Debug\net5.0\ref\Dio.Animation.dll
+C:\MyWorks\Dio.Animation\bin\Debug\net5.0\Dio.Animation.pdb
+C:\MyWorks\Dio.Animation\obj\Debug\net5.0\Dio.Animation.csproj.AssemblyReference.cache
+C:\MyWorks\Dio.Animation\obj\Debug\net5.0\Dio.Animation.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyWorks\Dio.Animation\obj\Debug\net5.0\Dio.Animation.AssemblyInfoInputs.cache
+C:\MyWorks\Dio.Animation\obj\Debug\net5.0\Dio.Animation.AssemblyInfo.cs
+C:\MyWorks\Dio.Animation\obj\Debug\net5.0\Dio.Animation.csproj.CoreCompileInputs.cache
+C:\MyWorks\Dio.Animation\obj\Debug\net5.0\Dio.Animation.dll
+C:\MyWorks\Dio.Animation\obj\Debug\net5.0\ref\Dio.Animation.dll
+C:\MyWorks\Dio.Animation\obj\Debug\net5.0\Dio.Animation.pdb
+C:\MyWorks\Dio.Animation\obj\Debug\net5.0\Dio.Animation.genruntimeconfig.cache
